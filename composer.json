@@ -24,6 +24,7 @@
     ],
     "psr-4": {
       "Nwdthemes\\ArraySerialized\\": ""
-    }
+    },
+	"minimum-stability": "dev"
   }
 }
